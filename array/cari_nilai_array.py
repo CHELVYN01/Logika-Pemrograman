@@ -1,9 +1,7 @@
 #Buatlah program untuk mencari suatu bilangan 
 #dalam array dan menampilkan indeksnya (jika ditemukan).
 
-# Program mencari suatu bilangan dalam array dan menampilkan indeksnya (jika ditemukan)
 
-# Program mencari suatu bilangan dalam array dan menampilkan indeksnya (jika ditemukan)
 
 # Contoh array bilangan bulat
 array_bilangan = [10, 3, 25, 7, 18, 5]

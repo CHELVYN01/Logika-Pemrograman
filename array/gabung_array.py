@@ -1,6 +1,6 @@
 #Buatlah program untuk menggabungkan dua array menjadi satu array baru.
 
-# Program menggabungkan dua array menjadi satu array baru
+
 
 # Contoh dua array bilangan bulat
 array1 = [1, 2, 3, 4, 5]

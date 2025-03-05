@@ -1,7 +1,7 @@
     #Buatlah program untuk menghitung rata-rata
     #nilai dari sebuah array bilangan bulat.
 
-# Program menghitung rata-rata nilai dari sebuah array bilangan bulat
+
 
 # Contoh array bilangan bulat
 array_bilangan = [10, 20, 30, 40, 50]
