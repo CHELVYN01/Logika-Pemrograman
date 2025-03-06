@@ -8,7 +8,9 @@ import math
 def hitung_luas_lingkaran(jari_jari):
     return math.pi * jari_jari ** 2
 
-# Contoh penggunaan
-jari_jari = 7  # Ubah sesuai nilai jari-jari yang diinginkan
+
+
+jari_jari = int(input("Masukan Jari-jarin yang ingin di hitung:"))
+
 luas = hitung_luas_lingkaran(jari_jari)
 print(f"Luas lingkaran dengan jari-jari {jari_jari} adalah {luas:.2f}")

@@ -9,8 +9,9 @@ def is_prima(n):
             return False
     return True
 
-# Contoh penggunaan
-bilangan = 29  # Ubah sesuai bilangan yang ingin diuji
+
+bilangan = int(input("Masukan Bilangan :"))
+
 if is_prima(bilangan):
     print(f"{bilangan} adalah bilangan prima.")
 else:

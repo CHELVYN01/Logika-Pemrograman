@@ -1,7 +1,7 @@
 #Buatlah program untuk menghitung jumlah digit dari suatu bilangan yang diinputkan.
 
 # Input bilangan dari pengguna
-bilangan = 2000
+bilangan = int(input("masukan nilai bilangan : "))
 
 # Menghitung jumlah digit menggunakan perulangan
 jumlah_digit = 0

@@ -6,8 +6,7 @@ A (85-100), B (70-84), C (60-69), D (50-59), E (0-49)
 
 
 # Nilai mahasiswa langsung diinputkan dalam program
-nilai = 78  # Ubah sesuai dengan nilai mahasiswa
-
+nilai = int(input("masukan nilai : "))
 # Menentukan grade berdasarkan range nilai
 if 85 <= nilai <= 100:
     grade = "A"

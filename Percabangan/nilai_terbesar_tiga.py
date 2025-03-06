@@ -1,10 +1,9 @@
 #Buatlah program untuk menentukan nilai terbesar dari tiga bilangan yang diinputkan.
 
 # Input tiga bilangan secara langsung
-bilangan1 = 12  # Ubah sesuai keinginan
-bilangan2 = 45  # Ubah sesuai keinginan
-bilangan3 = 29  # Ubah sesuai keinginan
-
+bilangan1 = int(input("masukan bilang 1 : "))
+bilangan2 = int(input("masukan bilang 2 : "))
+bilangan3 = int(input("masukan bilang 3 : "))
 # Menentukan bilangan terbesar
 nilai_terbesar = max(bilangan1, bilangan2, bilangan3)
 

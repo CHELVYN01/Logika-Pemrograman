@@ -5,7 +5,7 @@ Jika total belanja > 500.000, diskon 5%.
 Selain itu, tidak ada diskon.
 """
 # Total belanja langsung diinputkan dalam program
-total_belanja = 750000  # Ubah sesuai dengan total belanja yang diinginkan
+total_belanja = int(input("jumlah totatal belanja : "))
 
 # Menentukan diskon
 if total_belanja > 1000000:

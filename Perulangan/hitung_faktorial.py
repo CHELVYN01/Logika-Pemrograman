@@ -1,6 +1,6 @@
 #Buatlah program untuk menghitung faktorial dari suatu bilangan yang diinputkan
 
-bilangan = 12
+bilangan = int(input("input bilangan : "))
 
 # Inisialisasi hasil faktorial
 faktorial = 1

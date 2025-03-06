@@ -4,8 +4,8 @@
 def hitung_pangkat(a, b):
     return a ** b
 
-# Contoh penggunaan
-basis = 2  # Ubah sesuai basis yang diinginkan
-pangkat = 3  # Ubah sesuai pangkat yang diinginkan
+basis = int(input("masukan nilai basis :"))
+pangkat = int(input("masukan nilai pangkatnya :"))
+
 hasil = hitung_pangkat(basis, pangkat)
 print(f"{basis}^{pangkat} = {hasil}")

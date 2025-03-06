@@ -1,7 +1,7 @@
 #Buatlah program untuk mencetak deret bilangan Fibonacci sebanyak 20 bilangan.
 
 # Jumlah bilangan Fibonacci yang akan dicetak
-jumlah_bilangan = 20
+jumlah_bilangan = int(input("masukan jumlah bilangan : "))
 
 # Inisialisasi dua bilangan pertama dalam deret Fibonacci
 fib1, fib2 = 0, 1

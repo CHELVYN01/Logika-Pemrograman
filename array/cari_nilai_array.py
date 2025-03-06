@@ -6,8 +6,8 @@
 # Contoh array bilangan bulat
 array_bilangan = [10, 3, 25, 7, 18, 5]
 
-# Bilangan yang ingin dicari (langsung diisi di program)
-cari_bilangan = 7  # Ubah sesuai bilangan yang ingin dicari
+
+cari_bilangan = int(input("masuikan Anggat :"))
 
 # Mencari indeks bilangan
 if cari_bilangan in array_bilangan:

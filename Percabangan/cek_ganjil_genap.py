@@ -3,18 +3,14 @@
 
 
 
-bilangan_a = 9 
-bilangan_b = 10
+bilangan = int(input("masukan nilai bilangn :"))
 
 # Menentukan genap atau ganjil
-if bilangan_a % 2 == 0 :
-    print(f"{bilangan_a} adalah bilangan genap.")
+if bilangan % 2 == 0 :
+    print(f"{bilangan} adalah bilangan genap.")
 else:
-    print(f"{bilangan_a} adalah bilangan ganjil.")
+    print(f"{bilangan} adalah bilangan ganjil.")
 
 
 
-if bilangan_b % 2 == 0 :
-    print(f"{bilangan_b} adalah bilangan genap.")
-else:
-    print(f"{bilangan_b} adalah bilangan ganjil.")
+
